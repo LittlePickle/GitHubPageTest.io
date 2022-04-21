@@ -25,10 +25,19 @@ But unfortunately, we haven't finished recording the video yet, so I'll put a ra
 <br>
 <br>
 <details><summary><h2> Administrator Interface</h2></summary>
-######<p>Welcome to be the administrator of this website</p>
+<h2>p>Welcome to be the administrator of this website</p></h2>
 <p>As the administrator of this website, please always keep the following principles in mind</p>
  1.<b>Please do not disclose your login information to others</b><br>
  2.<b>Please note that you should not disclose any user information to any individual, group, or organization</b><br>
  3.<b>Administrator accounts can only be used to log into the administrator interface, please do not try to use the same username and password to log into the user interface</b>
+ <br>
+
+ <p>In our admin system, you can add or delete products, general user information, and add new admins, as you can see, you have a lot of power, so by all means, <b>Be Sure To Keep Your Account Safe!</b></p>
+<p>When you have successfully logged in and entered the administrator screen, your site should look like the following.</p>
+ <img width="1870" alt="admin" src="https://user-images.githubusercontent.com/57980036/164567539-3ba0aa35-446d-4e43-8275-63d200ca179e.png"><br>
+ <p>In the center of the screen are the bar chart and pie chart of our data visualization</p>
+ <p>Some administrators have reported problems with misaligned numbers when opening web pages, if you encounter this problem please close all small windows and refresh the web page</p>
+ 
+ 
 </details>
  
