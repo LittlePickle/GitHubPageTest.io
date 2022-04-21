@@ -7,7 +7,7 @@ But unfortunately, we haven't finished recording the video yet, so I'll put a ra
 
 
 <h1>User Guide</h1>
-<details><summary>## User Interface</summary>
+<details><summary><h2> User Interface</h2></summary>
 <p> Welcome to NeonCart Medical Store, an online medical shopping center dedicated to the convenience of people</p>
  <p>Please vist our shop by click[NeonCart Medical Store](http://47.251.43.118:8000.com)
  <p> When users visit our domain, they will be asked to log in, and the login operation is shown below</p>
@@ -24,11 +24,11 @@ But unfortunately, we haven't finished recording the video yet, so I'll put a ra
  </details>
 <br>
 <br>
-<details><summary>## Administrator Interface</summary>
+<details><summary><h2> Administrator Interface</h2></summary>
 ######<p>Welcome to be the administrator of this website</p>
 <p>As the administrator of this website, please always keep the following principles in mind</p>
- 1.**Please do not disclose your login information to others**<br>
- 2.**Please note that you should not disclose any user information to any individual, group, or organization**<br>
- 3.**Administrator accounts can only be used to log into the administrator interface, please do not try to use the same username and password to log into the user interface**
+ 1.<b>Please do not disclose your login information to others</b><br>
+ 2.<b>Please note that you should not disclose any user information to any individual, group, or organization</b><br>
+ 3.<b>Administrator accounts can only be used to log into the administrator interface, please do not try to use the same username and password to log into the user interface</b>
 </details>
  
