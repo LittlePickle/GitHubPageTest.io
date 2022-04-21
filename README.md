@@ -22,9 +22,7 @@ But unfortunately, we haven't finished recording the video yet, so I'll put a ra
  <img width="878" alt="personalInfo" src="https://user-images.githubusercontent.com/57980036/164547341-4d565133-9714-48f6-8432-67b56888435e.png">
  <img width="921" alt="personal info" src="https://user-images.githubusercontent.com/57980036/164547367-7ab1c299-9e58-4799-af71-513c433ee049.png">
  <p>After completing your information, you can use our website to shop as much as you like!</p>
- </details>
- </section>
-
+</details>
 <br>
 <br>
 <section>
