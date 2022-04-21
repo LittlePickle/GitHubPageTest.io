@@ -7,6 +7,7 @@ But unfortunately, we haven't finished recording the video yet, so I'll put a ra
 
 
 <h1>User Guide</h1>
+<section>
 <details><summary><h2> User Interface</h2></summary>
 <p> Welcome to NeonCart Medical Store, an online medical shopping center dedicated to the convenience of people</p>
  <p>Please vist our shop by click[NeonCart Medical Store](http://47.251.43.118:8000.com)
@@ -22,8 +23,12 @@ But unfortunately, we haven't finished recording the video yet, so I'll put a ra
  <img width="921" alt="personal info" src="https://user-images.githubusercontent.com/57980036/164547367-7ab1c299-9e58-4799-af71-513c433ee049.png">
  <p>After completing your information, you can use our website to shop as much as you like!</p>
  </details>
+ </section>
+
 <br>
 <br>
+<section>
+
 <details><summary><h2> Administrator Interface</h2></summary>
 <h2>p>Welcome to be the administrator of this website</p></h2>
 <p>As the administrator of this website, please always keep the following principles in mind</p>
@@ -37,7 +42,7 @@ But unfortunately, we haven't finished recording the video yet, so I'll put a ra
  <img width="1870" alt="admin" src="https://user-images.githubusercontent.com/57980036/164567539-3ba0aa35-446d-4e43-8275-63d200ca179e.png"><br>
  <p>In the center of the screen are the bar chart and pie chart of our data visualization</p>
  <p>Some administrators have reported problems with misaligned numbers when opening web pages, if you encounter this problem please close all small windows and refresh the web page</p>
- 
- 
+ https://user-images.githubusercontent.com/57980036/164568369-00a7c557-c9b6-4645-a9c4-1d2088219d0d.mp4
+
 </details>
- 
+</section>
