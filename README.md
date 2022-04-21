@@ -27,8 +27,8 @@ But unfortunately, we haven't finished recording the video yet, so I'll put a ra
 <details><summary>## Administrator Interface</summary>
 ######<p>Welcome to be the administrator of this website</p>
 <p>As the administrator of this website, please always keep the following principles in mind</p>
- 1.***Please do not disclose your login information to others***<br>
- 2.***Please note that you should not disclose any user information to any individual, group, or organization***<br>
- 3.***Administrator accounts can only be used to log into the administrator interface, please do not try to use the same username and password to log into the user interface***
+ 1.**Please do not disclose your login information to others**<br>
+ 2.**Please note that you should not disclose any user information to any individual, group, or organization**<br>
+ 3.**Administrator accounts can only be used to log into the administrator interface, please do not try to use the same username and password to log into the user interface**
 </details>
  
