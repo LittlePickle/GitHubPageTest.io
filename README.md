@@ -30,7 +30,7 @@ But unfortunately, we haven't finished recording the video yet, so I'll put a ra
 <section>
 
 <details><summary><h2> Administrator Interface</h2></summary>
-<h2>p>Welcome to be the administrator of this website</p></h2>
+<h2><p>Welcome to be the administrator of this website</p></h2>
 <p>As the administrator of this website, please always keep the following principles in mind</p>
  1.<b>Please do not disclose your login information to others</b><br>
  2.<b>Please note that you should not disclose any user information to any individual, group, or organization</b><br>
