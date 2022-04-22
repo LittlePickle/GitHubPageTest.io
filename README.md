@@ -40,7 +40,11 @@ But unfortunately, we haven't finished recording the video yet, so I'll put a ra
  <img width="1870" alt="admin" src="https://user-images.githubusercontent.com/57980036/164567539-3ba0aa35-446d-4e43-8275-63d200ca179e.png"><br>
  <p>In the center of the screen are the bar chart and pie chart of our data visualization</p>
  <p>Some administrators have reported problems with misaligned numbers when opening web pages, if you encounter this problem please close all small windows and refresh the web page</p>
- https://user-images.githubusercontent.com/57980036/164568369-00a7c557-c9b6-4645-a9c4-1d2088219d0d.mp4
-
 </details>
 </section>
+<br>
+<details><summary><h2> About</h2></summary>
+ -Chenhao Cui [Linkedin](https://www.linkedin.com/in/chenhao-cui-6a43981a2)
+ -Weihang He
+ -
+ -
